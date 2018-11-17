@@ -43,6 +43,7 @@ h1 {
 
 body {
   background-image: url(hip-square.png);
+  margin-bottom: 10px;
 }
 
 .bg-light {
@@ -56,12 +57,14 @@ form {
 
 .btn-form {
   width: 618px;
-  margin-left: 463px;
+  margin: auto;
   background-color: black !important;
   border-color: #d1bcbc !important;
+  text-align: center;
+  color: #d1bcbc;
 }
 
-.btn {
+.info-btn {
   background-color: black !important;
   border-color: black !important;
   color: #d1bcbc !important;
